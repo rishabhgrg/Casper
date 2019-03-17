@@ -90,7 +90,7 @@ try {
     config = null;
 }
 
-const REPO = 'TryGhost/Casper';
+const REPO = 'rishabhgrg/Casper';
 const USER_AGENT = 'Casper';
 const CHANGELOG_PATH = path.join(process.cwd(), '.', 'changelog.md');
 
